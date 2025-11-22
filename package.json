@@ -1,0 +1,9 @@
+{
+    "name": "io-backend",
+    "private": true,
+    "workspaces": [
+      "issuer-api",
+      "card-processor"
+    ]
+  }
+  
